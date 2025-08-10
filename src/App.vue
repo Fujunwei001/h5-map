@@ -1,5 +1,6 @@
 <script setup>
 import MainPage from './pages/index.vue'
+console.log('测试推送')
 </script>
 
 <template>
