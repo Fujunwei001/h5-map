@@ -5,6 +5,7 @@ import vue from '@vitejs/plugin-vue'
 import pxtorem from 'postcss-pxtorem';
 // https://vite.dev/config/
 export default defineConfig({
+  base: './',
   plugins: [
     vue(),
   ],
